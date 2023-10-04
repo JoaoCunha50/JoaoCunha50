@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoaoCunha50
 - 👀 I’m interested in Software development and AI
-- 🌱 I’m currently learning Engenharia Informática na Uminho
+- 🌱 I’m currently learning Engenharia Informática in Uminho
 - 📫 How to reach me joaomanuelmachadodacunha@gmail.com
 
 <!---
