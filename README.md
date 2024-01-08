@@ -5,7 +5,7 @@
 
 
 🛠️ Languages and Tools :
-C  Haskell  html  css  vscode 
+C // Haskell // html // css // vscode 
 
 <!---
 JoaoCunha50/JoaoCunha50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
