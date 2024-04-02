@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoaoCunha50
-- 👀 I’m interested in Software development and AI
+- 👀 I’m interested in Software development and AI (but still learning about this world)
 - 🌱 I’m currently learning Engenharia Informática in UM
 - 📫 How to reach me joaomanuelmachadodacunha@gmail.com
 
