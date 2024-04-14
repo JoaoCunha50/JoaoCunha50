@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @JoaoCunha50
+<div id="header" align="center">
+<h1 align = "center"> ##👋 Hi, I’m @JoaoCunha50 <\h1>
+
 - 👀 I’m interested in Software development and AI (but there is a lot to this world I dont know about)
 - 🌱 I’m currently learning Engenharia Informática in UM
 - 📫 How to reach me joaomanuelmachadodacunha@gmail.com
