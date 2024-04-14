@@ -2,7 +2,7 @@
   <h1> Welcome, I’m @JoaoCunha50 ✌️</h1>
 </div>
 
-- 👀 I’m interested in [Software development](https://github.com/topics/software-development) and [AI](https://github.com/topics/artificial-intelligence).
+- 👀 I’m interested in [Software development](https://github.com/topics/software-development), [Cyber Security](https://github.com/topics/cyber-security) [AI](https://github.com/topics/artificial-intelligence).
 - 🌱 I’m currently learning Engenharia Informática in UM.
 - 📫 How to reach me: [joaomanuelmachadodacunha@gmail.com](mailto:joaomanuelmachadodacunha@gmail.com).
 
