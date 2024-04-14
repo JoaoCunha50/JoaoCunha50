@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>👋 Hi, I’m @JoaoCunha50</h1>
+  <h1> Welcome, I’m @JoaoCunha50 ✌️</h1>
 </div>
 
 - 👀 I’m interested in [Software development](https://github.com/topics/software-development) and [AI](https://github.com/topics/artificial-intelligence).
@@ -14,7 +14,7 @@
 [![Java](https://img.shields.io/badge/Language-Java-orange)](https://www.java.com/)
 
 ### 📊 Stats:
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=JoaoCunha50&show_icons=true&theme=radical&bg_color=00000000" width="45%"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=JoaoCunha50&show_icons=true&theme=radical&bg_color=00000000" width="55%"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCunha50&show_icons=true&theme=radical&bg_color=00000000" width="45%"/>
 
  
