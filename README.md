@@ -13,7 +13,7 @@
 
 - 👀 I’m interested in **[Software development](https://github.com/topics/software-development)**, **[Cyber Security](https://github.com/topics/cyber-security)** and **[AI](https://github.com/topics/artificial-intelligence)**.
 - 🌱 I’m currently learning **Engenharia Informática** in **Universidade do Minho**.
-- 📫 How to reach me: [joaomanuelmachadodacunha@gmail.com](mailto:joaomanuelmachadodacunha@gmail.com).
+- 📫 How to reach me: **[joaomanuelmachadodacunha@gmail.com](mailto:joaomanuelmachadodacunha@gmail.com)**.
 
 ### 🛠️ Languages and Tools:
 ![C Badge](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white)
