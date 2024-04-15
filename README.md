@@ -16,14 +16,12 @@
 - 📫 How to reach me: [joaomanuelmachadodacunha@gmail.com](mailto:joaomanuelmachadodacunha@gmail.com).
 
 ### 🛠️ Languages and Tools:
-<img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/Haskell-purple?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell Badge"/>
-<img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html&logoColor=white" alt="HTML Badge"/>
-[![C](https://img.shields.io/badge/Language-C-blue)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Haskell](https://img.shields.io/badge/Language-Haskell-purple)](https://www.haskell.org/)
-[![HTML](https://img.shields.io/badge/Language-HTML-red)](https://www.w3.org/TR/html52/)
-[![CSS](https://img.shields.io/badge/Language-CSS-blue)](https://www.w3.org/Style/CSS/)
-[![Java](https://img.shields.io/badge/Language-Java-orange)](https://www.java.com/)
+![C Badge](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white)
+![Haskell Badge](https://img.shields.io/badge/Haskell-purple?style=for-the-badge&logo=haskell&logoColor=white)
+![HTML Badge](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white)
+![Java Badge](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/CSS-blueviolet?style=for-the-badge&logo=css3&logoColor=white)
+
 
 ### 📊 Stats:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=JoaoCunha50&show_icons=true&theme=radical&bg_color=00000000" width="50%"/>
