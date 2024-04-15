@@ -16,7 +16,7 @@
 - 📫 How to reach me: [joaomanuelmachadodacunha@gmail.com](mailto:joaomanuelmachadodacunha@gmail.com).
 
 ### 🛠️ Languages and Tools:
-<img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white" alt="C Badge"/>
+<img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white"/>
 [![C](https://img.shields.io/badge/Language-C-blue)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Haskell](https://img.shields.io/badge/Language-Haskell-purple)](https://www.haskell.org/)
 [![HTML](https://img.shields.io/badge/Language-HTML-red)](https://www.w3.org/TR/html52/)
