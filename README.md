@@ -20,7 +20,7 @@
 ![Haskell Badge](https://img.shields.io/badge/Haskell-purple?style=for-the-badge&logo=haskell&logoColor=white)
 ![HTML Badge](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/CSS-blueviolet?style=for-the-badge&logo=css3&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
 
 
 ### 📊 Stats:
