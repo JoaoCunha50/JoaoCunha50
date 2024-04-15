@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <h1> Welcome, I’m @JoaoCunha50 ✌️</h1>
+  <img src="https://komarev.com/ghpvc/?username=joaosa24&style=flat-square&color=blue" alt=""/>
 </div>
 
 - 👀 I’m interested in [Software development](https://github.com/topics/software-development), [Cyber Security](https://github.com/topics/cyber-security) and [AI](https://github.com/topics/artificial-intelligence).
