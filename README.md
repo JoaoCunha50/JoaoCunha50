@@ -6,6 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=joaosa24&style=flat-square&color=blue" alt=""/>
 </div>
 
+
 - 👀 I’m interested in [Software development](https://github.com/topics/software-development), [Cyber Security](https://github.com/topics/cyber-security) and [AI](https://github.com/topics/artificial-intelligence).
 - 🌱 I’m currently learning Engenharia Informática in UM.
 - 📫 How to reach me: [joaomanuelmachadodacunha@gmail.com](mailto:joaomanuelmachadodacunha@gmail.com).
