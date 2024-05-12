@@ -3,6 +3,8 @@
   <div id="badges" align = "center">
   <a href="https://www.instagram.com/joaocunha750/">
   <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  <a href="https://www.linkedin.com/in/joaocunha50/">
+  <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=JoaoCunha50&style=flat-square&color=blue" alt=""/>
