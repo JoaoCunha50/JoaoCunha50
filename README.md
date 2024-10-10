@@ -25,6 +25,8 @@
 **![Bash Badge](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)**
 **![Haskell Badge](https://img.shields.io/badge/Haskell-purple?style=for-the-badge&logo=haskell&logoColor=white)**
 **![Bash Badge](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)**
+**![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)**
+
 
 
 
