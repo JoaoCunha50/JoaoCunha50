@@ -24,9 +24,12 @@
 **![CSS Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)**
 **![Bash Badge](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)**
 **![Haskell Badge](https://img.shields.io/badge/Haskell-purple?style=for-the-badge&logo=haskell&logoColor=white)**
-**![Bash Badge](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)**
+**![Shell Script Badge](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)**
 **![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)**
 **![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)**
+**![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)**
+**![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)**
+
 
 
 
