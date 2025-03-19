@@ -32,15 +32,6 @@
 **![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)**
 
 
-
-
-
-
-
 ### 📊 Stats:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=JoaoCunha50&show_icons=true&theme=radical&bg_color=00000000" width="50%"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCunha50&show_icons=true&theme=radical&bg_color=00000000" width="35%"/>
-
- 
-
-
