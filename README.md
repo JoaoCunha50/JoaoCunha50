@@ -63,6 +63,8 @@
 
 ### 📊 Stats:
 <div align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JoaoCunha50&show_icons=true&theme=radical&bg_color=00000000" width="50%"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCunha50&show_icons=true&theme=radical&bg_color=00000000" width="35%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JoaoCunha50&show_icons=true&theme=radical&" width="45%"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoCunha50&theme=radical&" width="45%" alt="JoaoCunha50" />
+  <p></p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCunha50&show_icons=true&theme=radical&" width="35%"/>
 </div>
