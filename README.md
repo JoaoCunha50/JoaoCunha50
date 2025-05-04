@@ -12,6 +12,8 @@
 </div>
 
 ### About Me
+Turning ideas into reality, one line of code at a time.✌️
+
 - 👀 I’m interested in **[Software development](https://github.com/topics/software-development)**, **[Cyber Security](https://github.com/topics/cyber-security)** and **[AI](https://github.com/topics/artificial-intelligence)**.
 - 🌱 I’m currently learning **Engenharia Informática** in **Universidade do Minho**.
 - :computer: I'm currently a member of the **Projects Department** in **[EPIC Júnior](https://epicje.pt/)**
