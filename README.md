@@ -72,9 +72,9 @@ Turning ideas into reality, one line of code at a time.✌️
 
 
 ### 📊 Stats & Activity:
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoCunha50&theme=radical" height="150" width="49%" alt="GitHub Stats" />
+<div align="start">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoCunha50&theme=radical" height="160" width="49%" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoCunha50&theme=radical" height="150" width="50%" alt="Top Languages" />
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoCunha50&theme=radical&hide_border=true&area=true&bg_color=141321" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoCunha50&theme=radical&hide_border=true&area=true&bg_color=141321" width="87%" alt="Activity Graph" />
 </div>
