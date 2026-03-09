@@ -14,7 +14,7 @@
 ### About Me
 Turning ideas into reality, one line of code at a time.✌️
 
-- 👀 I’m interested in **[Software development](https://github.com/topics/software-development)** and **[Cyber Security](https://github.com/topics/cyber-security)**.
+- 👀 I’m interested in **[Software development](https://github.com/topics/software-development)**, **[Agentic and generative AI](https://github.com/topics/artificial-intelligence)** and **[Cyber Security](https://github.com/topics/cyber-security)**.
 - 🌱 I’m currently learning **Engenharia Informática** in **Universidade do Minho**.
 - :computer: I'm currently a **Junior Software Engineer** at **[Codepoint.](https://codepoint.pt/en)** and a member of the **Projects Department** in **[EPIC Júnior](https://epicje.pt/)**
 - 📫 How to reach me: **[joaomanuelmachadodacunha@gmail.com](mailto:joaomanuelmachadodacunha@gmail.com)**.
