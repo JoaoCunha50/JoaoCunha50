@@ -12,7 +12,6 @@
 </div>
 
 ### About Me
-Turning ideas into reality, one line of code at a time.✌️
 
 - 👀 I’m interested in **[Software development](https://github.com/topics/software-development)**, **[Agentic and generative AI](https://github.com/topics/artificial-intelligence)** and **[Cyber Security](https://github.com/topics/cyber-security)**.
 - 🌱 I’m currently learning **Engenharia Informática** in **Universidade do Minho**.
