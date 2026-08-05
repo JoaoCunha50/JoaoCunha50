@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Welcome, I’m @JoaoCunha50 ✌️</h1>
+  <h1>Welcome, I’m @JoaoCunha50</h1>
   <div id="badges" align="center">
     <a href="https://www.instagram.com/joaocunha750/">
       <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
@@ -13,10 +13,11 @@
 
 ### About Me
 
-- 👀 I’m interested in **[Software development](https://github.com/topics/software-development)**, **[Agentic and generative AI](https://github.com/topics/artificial-intelligence)** and **[Cyber Security](https://github.com/topics/cyber-security)**.
-- 🌱 I’m currently learning **Engenharia Informática** in **Universidade do Minho**.
-- :computer: I'm currently a **Junior Software Engineer** at **[Codepoint.](https://codepoint.pt/en)** and a member of the **Projects Department** in **[EPIC Júnior](https://epicje.pt/)**
-- 📫 How to reach me: **[joaomanuelmachadodacunha@gmail.com](mailto:joaomanuelmachadodacunha@gmail.com)**.
+- I’m interested in **[Software development](https://github.com/topics/software-development)**, **[Agentic and generative AI](https://github.com/topics/artificial-intelligence)** and **[Cyber Security](https://github.com/topics/cyber-security)**.
+- Love me some sports and videogames, And I can't spend a day without listening to some music.
+- I’m currently pursuing Master's Degree in **Software Engineering** @ **Universidade do Minho**.
+- I'm currently a **Junior Software Engineer** at **[Codepoint.](https://codepoint.pt/en)** and was a member of the **Projects Department** in **[EPIC Júnior](https://epicje.pt/)**
+- How to reach me: **[joaomanuelmachadodacunha@gmail.com](mailto:joaomanuelmachadodacunha@gmail.com)**.
 
 ### 🛠️ Languages and Tools:
 <div align="left">
@@ -72,8 +73,5 @@
 
 ### 📊 Stats & Activity:
 <div align="start">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoCunha50&theme=radical" height="160" width="49%" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoCunha50&theme=radical" height="150" width="50%" alt="Top Languages" />
-  <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoCunha50&theme=radical&hide_border=true&area=true&bg_color=141321" width="90%" alt="Activity Graph" />
 </div>
