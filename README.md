@@ -73,5 +73,8 @@
 
 ### 📊 Stats & Activity:
 <div align="start">
+  <img src="./profile-summary-card-output/radical/1-profile-details.svg" height="160" width="49%" alt="GitHub Stats" />
+  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" height="160" width="49%" alt="Top Languages" />
+  <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoCunha50&theme=radical&hide_border=true&area=true&bg_color=141321" width="90%" alt="Activity Graph" />
 </div>
